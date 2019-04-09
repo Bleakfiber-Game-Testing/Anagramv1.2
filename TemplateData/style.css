@@ -34,8 +34,8 @@ body, html{
     position:absolute;
     bottom:10px;
     right:10px;
-    color:#cccccc;
-    font-size:25px;
+    color:#aaa;
+    font-size:9px;
     font-family:sans-serif;
     font-family:sans-serif;
 
@@ -46,21 +46,13 @@ body, html{
 .bleakfiber{
     color:#cccccc;
     text-decoration:none;
-<<<<<<< HEAD
-<<<<<<< HEAD
-    font-size:25px;
-=======
-    font-size:25px;
->>>>>>> 61a9f0764e7468d8bb37d01e7159b398be9211e4
-=======
-    font-size:25px;
->>>>>>> 61a9f0764e7468d8bb37d01e7159b398be9211e4
+    font-size:12px;
     
 
 }
 
 .bleakfiber a:hover{
-    color:#cccccc;
+    color:#fff;
     text-decoration:underline;
 }
 
